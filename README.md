@@ -13,10 +13,6 @@ A responsive, single-page professional portfolio built for GitHub Pages with sem
 - Custom 404 page and SVG favicon
 - `.nojekyll` file for direct GitHub Pages compatibility
 
-## Preview locally
-
-Open `index.html` directly in a browser, or serve this folder with any static file server. No installation or compilation is required.
-
 ## Publish on GitHub Pages
 
 1. Create a GitHub repository and add the contents of this folder to its default branch.
